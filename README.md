@@ -18,6 +18,8 @@
 - [License](#license)
 
 ## Introduction 
+![banner](https://offdahook.org/wee/yt-mp4-terminal.gif)
+
 With its seamless integration, youtube-to-mp4 simplifies the process of sharing YouTube videos within your Discord server. Whether you're discussing music, tutorials, or funny clips, DiscordTube ensures quick access to the content you love, enhancing the overall user experience.
 
 ## Requirements
@@ -52,6 +54,7 @@ Your Bot token is essential for your bot to authenticate and connect to Discord 
 5. Open a new browser tab and paste the URL into the address bar. This will allow you to add the bot to a server of your choice. Select a server and authorize the bot.
 
 ## Installation
+
 1. Open a Terminal and navigate to the directory where you want to clone your bot's repository.
 2. Clone the repository by running the command `git clone https://github.com/wiiiviii/youtube-to-mp4.git`.
 3. Navigate into the cloned repository by running the command `cd youtube-to-mp4`.
